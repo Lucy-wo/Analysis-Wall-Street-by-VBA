@@ -1,4 +1,4 @@
-![stock Market](pictrues/stockmarket.jpg)
+![stock Market](pictures/stockmarket.jpg)
 
 # Background
 
