@@ -1,14 +1,16 @@
+# Scripts of Excel VBA of Wall Street
+
 ![stock Market](pictures/stockmarket.jpg)
 
-# Background
+### Background
 
 Use VBA scripting to analyze real stock market data to find insights.
 
-# File
+### File
 
 Feom 2014 to 2016 stock data, including ticker, date, high, low, close and volume.
 
-# Steps
+### Steps
 
 Create a script that will loop through all the stocks for one year for each run and take the following informations:
 
@@ -18,19 +20,19 @@ Create a script that will loop through all the stocks for one year for each run 
 4. The total stock volume of the stock.
 5. Conditional formatting that will highlight positive change in green and negative change in red.
 
-# CHALLENGES
+### Challenges
 
 *Be able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume"
 *Allow it to run on every worksheet, i.e., every year, just by running the VBA script once
 
-# Conclusions
+### Conclusions
 
 *From 2014 to 2016, number of unique tiker increased to 3168
 *Greatest % increase in 2016 compare to 2014, increased 6093%
 *More positive change in 2016
 *Overall 2016's stock performance better than 2015 and 2014
 
-# Scripts of Excel VBA of Wall Street
+### Scripts of VBA 
 <pre>
 Sub summarefort()
 
