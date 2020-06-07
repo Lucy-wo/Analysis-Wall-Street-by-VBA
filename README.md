@@ -1,3 +1,23 @@
+![stock Market](Images/stockmarket.jpg)
+
+# Background
+
+Use VBA scripting to analyze real stock market data to find insights.
+
+# File
+
+Feom 2014 to 2016 stock data, including ticker, date, high, low, close and volume
+
+# Steps
+
+Create a script that will loop through all the stocks for one year for each run and take the following informations:
+
+1. Unique ticker symbol
+2. Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+3. The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+4. The total stock volume of the stock.
+5. Conditional formatting that will highlight positive change in green and negative change in red.
+
 # Scripts of Excel VBA of Wall Street
 <pre>
 Sub summarefort()
@@ -90,3 +110,16 @@ Ws.Columns("A:Q").AutoFit
 Next Ws
 End Sub
 <pre>
+
+# CHALLENGES
+
+*Be able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume"
+*Allow it to run on every worksheet, i.e., every year, just by running the VBA script once
+
+# Conclusions
+
+*From 2014 to 2016, number of unique tiker increased to 3168
+*Greatest % increase in 2016 compare to 2014, increased 6093%
+*More positive change in 2016
+*Overall 2016's stock performance better than 2015 and 2014
+
