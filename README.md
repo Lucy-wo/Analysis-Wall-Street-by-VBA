@@ -51,7 +51,7 @@ For i = 2 To Lastrow
     End If     
 Next i
 
-'---part two----- 
+'------------part two-------------------------------------
 
 Dim astsu As Integer
 Dim k As Long
