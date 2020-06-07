@@ -22,15 +22,15 @@ Create a script that will loop through all the stocks for one year for each run 
 
 ### Challenges
 
-*Be able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume"
-*Allow it to run on every worksheet, i.e., every year, just by running the VBA script once
+* Be able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume"
+* Allow it to run on every worksheet, i.e., every year, just by running the VBA script once
 
 ### Conclusions
 
-*From 2014 to 2016, number of unique tiker increased to 3168
-*Greatest % increase in 2016 compare to 2014, increased 6093%
-*More positive change in 2016
-*Overall 2016's stock performance better than 2015 and 2014
+* From 2014 to 2016, number of unique tiker increased to 3168
+* Greatest % increase in 2016 compare to 2014, increased 6093%
+* More positive change in 2016
+* Overall 2016's stock performance better than 2015 and 2014
 
 ### Scripts of VBA 
 <pre>
