@@ -1,4 +1,7 @@
 # Scripts of Excel VBA of Wall Street
+### Author
+
+* Lucy Wo
 
 ![stock Market](pictures/stockmarket.jpg)
 
@@ -124,7 +127,3 @@ Ws.Columns("A:Q").AutoFit
 Next Ws
 End Sub
 <pre>
-
-# Author
-
-* Lucy Wo
