@@ -1,4 +1,4 @@
-# Scripts of Excel VBA of Wall Street
+# Excel VBA of Wall Street
 ### Author: Lucy Wo
 
 ![stock Market](pictures/stockmarket.jpg)
