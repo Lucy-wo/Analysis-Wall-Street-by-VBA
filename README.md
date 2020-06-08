@@ -9,7 +9,7 @@ Use VBA scripting to analyze real stock market data to find insights.
 
 ### File
 
-Feom 2014 to 2016 stock data, including ticker, date, high, low, close and volume.
+From 2014 to 2016 stock data, including ticker, date, high, low, close and volume.
 
 ### Steps
 
