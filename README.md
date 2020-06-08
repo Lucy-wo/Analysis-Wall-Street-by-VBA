@@ -29,7 +29,7 @@ Create a script that will loop through all the stocks for one year for each run 
 ### Conclusions
 
 * From 2014 to 2016, number of unique tiker has increased to 3168
-* The changes of greatest % increase from 2016 versus 2014 rised 6093%
+* The changes of greatest % increase from 2016 versus 2014 elevated 6093%
 * More positive change in 2016
 * Overall 2016's stock performance better than 2015 and 2014
 
